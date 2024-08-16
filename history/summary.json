@@ -1,5 +1,23 @@
 [
   {
+    "name": "Homepage",
+    "url": "https://www.pastis-hosting.net",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pastis-hosting.net.ico",
+    "slug": "homepage",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Panel",
     "url": "https://panel.pastis-hosting.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.pastis-hosting.net.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 887,
-    "timeWeek": 887,
-    "timeMonth": 887,
-    "timeYear": 887,
+    "time": 908,
+    "timeDay": 908,
+    "timeWeek": 908,
+    "timeMonth": 908,
+    "timeYear": 908,
     "dailyMinutesDown": {}
   }
 ]
