@@ -15,13 +15,12 @@ status-website:
   cname: www.pastis-hosting.net
   name: Pastis Hosting
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
   navbar:
     - title: Constructions Incongrues
       href: https://status.constructions-incongrues.net
     - title: Interzone Network
       href: https://status.interzone.network
-    - title: Pastis Hosting
-      href: https://pastis-hosting.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
