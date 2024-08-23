@@ -19,10 +19,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
   navbar:
-    - title: Constructions Incongrues
+    - title: Constructions
       href: https://status.constructions-incongrues.net
-    - title: Interzone Network
+    - title: Interzone
       href: https://status.interzone.network
+    - title: Pantagruweb
+      href: https://status.pantagruweb.club
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
