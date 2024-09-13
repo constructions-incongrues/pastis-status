@@ -5,6 +5,8 @@ repo: status-pastis # The name of this repository
 sites:
   - name: Fesse
     url: https://fesse.pastis-hosting.net
+    expectedStatusCodes:
+      - 401
   - name: Home
     url: https://www.pastis-hosting.net
   - name: Panel
