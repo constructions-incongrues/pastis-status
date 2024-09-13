@@ -3,7 +3,9 @@ owner: constructions-incongrues # Your GitHub organization or username, where th
 repo: status-pastis # The name of this repository
 
 sites:
-  - name: Homepage
+  - name: Fesse
+    url: https://fesse.pastis-hosting.net
+  - name: Home
     url: https://www.pastis-hosting.net
   - name: Panel
     url: https://panel.pastis-hosting.net
