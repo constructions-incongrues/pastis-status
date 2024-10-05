@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fesse.pastis-hosting.net.ico",
     "slug": "fesse",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 508,
     "timeDay": 467,
     "timeWeek": 527,
@@ -42,7 +42,7 @@
     "url": "https://panel.pastis-hosting.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.pastis-hosting.net.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 1023,
     "timeMonth": 1047,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   },
   {
     "name": "Yuno",
