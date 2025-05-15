@@ -19,6 +19,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
   navbar:
+    - title: Github
+      href: https://github.com/constructions-incongrues/status-pastis/
     - title: Constructions
       href: https://status.constructions-incongrues.net
     - title: Interzone
@@ -27,6 +29,8 @@ status-website:
       href: https://status.jeancloude.club
     - title: Pantagruweb
       href: https://status.pantagruweb.club
+    - title: Pastis
+      href: https://pastis-hosting.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
