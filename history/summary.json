@@ -22,9 +22,9 @@
     "url": "https://panel.pastis-hosting.net",
     "icon": "https://icons.duckduckgo.com/ip3/panel.pastis-hosting.net.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 1115,
     "timeYear": 1123,
     "dailyMinutesDown": {
+      "2025-11-08": 0,
       "2025-08-30": 82,
       "2025-02-21": 36
     }
