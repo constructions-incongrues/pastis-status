@@ -43,19 +43,19 @@
     "url": "https://yuno.pastis-hosting.net",
     "icon": "https://icons.duckduckgo.com/ip3/yuno.pastis-hosting.net.ico",
     "slug": "yuno",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 534,
-    "timeWeek": 705,
-    "timeMonth": 711,
+    "timeDay": 691,
+    "timeWeek": 723,
+    "timeMonth": 716,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2025-12-19": 0
+      "2025-12-19": 14
     }
   }
 ]
