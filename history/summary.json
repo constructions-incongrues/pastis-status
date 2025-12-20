@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 150,
-    "timeDay": 218,
-    "timeWeek": 197,
-    "timeMonth": 184,
+    "time": 151,
+    "timeDay": 212,
+    "timeWeek": 204,
+    "timeMonth": 186,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1120,
-    "timeDay": 1086,
-    "timeWeek": 1123,
+    "timeDay": 1304,
+    "timeWeek": 1156,
     "timeMonth": 1171,
     "timeYear": 1134,
     "dailyMinutesDown": {
@@ -44,18 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yuno.pastis-hosting.net.ico",
     "slug": "yuno",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 691,
-    "timeWeek": 723,
-    "timeMonth": 716,
+    "time": 637,
+    "timeDay": 793,
+    "timeWeek": 742,
+    "timeMonth": 712,
     "timeYear": 673,
-    "dailyMinutesDown": {
-      "2025-12-19": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
